@@ -111,17 +111,6 @@
   "bugs": {
     "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
   },
-  "keywords": [
-    "electron",
-    "boilerplate",
-    "react",
-    "typescript",
-    "ts",
-    "sass",
-    "webpack",
-    "hot",
-    "reload"
-  ],
   "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
   "jest": {
     "testURL": "http://localhost/",
@@ -176,7 +165,7 @@
     "css-loader": "^6.2.0",
     "css-minimizer-webpack-plugin": "^3.0.2",
     "detect-port": "^1.3.0",
-    "electron": "^13.2.1",
+    "electron": "^12.2.1",
     "electron-builder": "^22.11.7",
     "electron-devtools-installer": "^3.2.0",
     "electron-notarize": "^1.1.0",
